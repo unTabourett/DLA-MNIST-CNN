@@ -1,0 +1,22 @@
+{"time":"2024-09-19T18:37:59.22321506+02:00","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-09-19T18:37:59.223255649+02:00","level":"INFO","msg":"created symlink","path":"/home/hleroy/Documents/UnivSID/DLA/TP1/wandb/run-20240919_183759-jbuibmxq/logs/debug-core.log"}
+{"time":"2024-09-19T18:37:59.223337642+02:00","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-09-19T18:37:59.22334402+02:00","level":"INFO","msg":"created symlink","path":"/home/hleroy/Documents/UnivSID/DLA/TP1/wandb/run-20240919_183759-jbuibmxq/logs/debug-core.log"}
+{"time":"2024-09-19T18:37:59.227876076+02:00","level":"INFO","msg":"created new stream","id":"jbuibmxq"}
+{"time":"2024-09-19T18:37:59.227978758+02:00","level":"INFO","msg":"stream: started","id":"jbuibmxq"}
+{"time":"2024-09-19T18:37:59.228020979+02:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"jbuibmxq"}}
+{"time":"2024-09-19T18:37:59.228042016+02:00","level":"INFO","msg":"sender: started","stream_id":{"value":"jbuibmxq"}}
+{"time":"2024-09-19T18:37:59.228203689+02:00","level":"INFO","msg":"handler: started","stream_id":{"value":"jbuibmxq"}}
+{"time":"2024-09-19T18:37:59.620149654+02:00","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-09-19T18:37:59.623855208+02:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-09-19T18:51:02.927084786+02:00","level":"INFO","msg":"stream: closing","id":"jbuibmxq"}
+{"time":"2024-09-19T18:51:02.927111735+02:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-09-19T18:51:02.927791464+02:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-09-19T18:51:03.188659725+02:00","level":"WARN","msg":"No job ingredients found, not creating job artifact"}
+{"time":"2024-09-19T18:51:03.18870615+02:00","level":"WARN","msg":"No source type found, not creating job artifact"}
+{"time":"2024-09-19T18:51:03.188721256+02:00","level":"INFO","msg":"sender: sendDefer: no job artifact to save"}
+{"time":"2024-09-19T18:51:32.982039816+02:00","level":"INFO","msg":"api: retrying HTTP request, no error or response"}
+{"time":"2024-09-19T18:51:36.260979963+02:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"jbuibmxq"}}
+{"time":"2024-09-19T18:51:36.261107531+02:00","level":"INFO","msg":"sender: closed","stream_id":{"value":"jbuibmxq"}}
+{"time":"2024-09-19T18:51:36.261094263+02:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"jbuibmxq"}}
+{"time":"2024-09-19T18:51:36.261374452+02:00","level":"INFO","msg":"stream: closed","id":"jbuibmxq"}

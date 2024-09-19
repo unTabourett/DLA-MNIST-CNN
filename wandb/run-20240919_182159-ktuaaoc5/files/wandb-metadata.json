@@ -1,0 +1,49 @@
+{
+  "os": "Linux-6.8.0-40-generic-x86_64-with-glibc2.35",
+  "python": "3.10.12",
+  "startedAt": "2024-09-19T16:21:59.085258Z",
+  "args": [
+    "--learning_rate",
+    "0.001",
+    "--num_epochs",
+    "10",
+    "--batch_size",
+    "32",
+    "--experiment_name",
+    "exp1"
+  ],
+  "program": "/home/hleroy/Documents/UnivSID/DLA/TP1/src/train.py",
+  "codePath": "src/train.py",
+  "email": "henri.leroy13@gmail.com",
+  "root": "/home/hleroy/Documents/UnivSID/DLA/TP1",
+  "host": "gm",
+  "username": "hleroy",
+  "executable": "/home/hleroy/.cache/pypoetry/virtualenvs/tp1-ftMjbHMZ-py3.10/bin/python",
+  "codePathLocal": "src/train.py",
+  "cpu_count": 4,
+  "cpu_count_logical": 8,
+  "gpu": "[NVIDIA T500]",
+  "gpu_count": 1,
+  "disk": {
+    "/": {
+      "total": "493665927168",
+      "used": "113518096384"
+    }
+  },
+  "memory": {
+    "total": "16501538816"
+  },
+  "cpu": {
+    "count": 4,
+    "countLogical": 8
+  },
+  "gpu_nvidia": [
+    {
+      "name": "NVIDIA T500",
+      "memoryTotal": "2147483648",
+      "cudaCores": 896,
+      "architecture": "Turing"
+    }
+  ],
+  "cudaVersion": "12.2"
+}

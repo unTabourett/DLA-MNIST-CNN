@@ -1,0 +1,19 @@
+Traceback (most recent call last):
+  File "/home/hleroy/.cache/pypoetry/virtualenvs/tp1-ftMjbHMZ-py3.10/lib/python3.10/site-packages/wandb/sdk/wandb_config.py", line 165, in __getattr__
+    return self.__getitem__(key)
+  File "/home/hleroy/.cache/pypoetry/virtualenvs/tp1-ftMjbHMZ-py3.10/lib/python3.10/site-packages/wandb/sdk/wandb_config.py", line 130, in __getitem__
+    return self._items[key]
+KeyError: 'experiment_name'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/hleroy/Documents/UnivSID/DLA/TP1/src/train.py", line 79, in <module>
+    main(args)
+  File "/home/hleroy/Documents/UnivSID/DLA/TP1/src/train.py", line 65, in main
+    train_model(model, train_loader, criterion, optimizer, args.num_epochs, args.save_path)
+  File "/home/hleroy/Documents/UnivSID/DLA/TP1/src/train.py", line 15, in train_model
+    wandb.init(project="my_project_name", name=wandb.config.experiment_name, config={
+  File "/home/hleroy/.cache/pypoetry/virtualenvs/tp1-ftMjbHMZ-py3.10/lib/python3.10/site-packages/wandb/sdk/wandb_config.py", line 167, in __getattr__
+    raise AttributeError(
+AttributeError: <class 'wandb.sdk.wandb_config.Config'> object has no attribute 'experiment_name'

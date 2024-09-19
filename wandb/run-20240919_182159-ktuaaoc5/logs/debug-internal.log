@@ -1,0 +1,21 @@
+{"time":"2024-09-19T18:21:59.088819238+02:00","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-09-19T18:21:59.088854765+02:00","level":"INFO","msg":"created symlink","path":"/home/hleroy/Documents/UnivSID/DLA/TP1/wandb/run-20240919_182159-ktuaaoc5/logs/debug-core.log"}
+{"time":"2024-09-19T18:21:59.088960145+02:00","level":"INFO","msg":"using version","core version":"0.18.1"}
+{"time":"2024-09-19T18:21:59.088967346+02:00","level":"INFO","msg":"created symlink","path":"/home/hleroy/Documents/UnivSID/DLA/TP1/wandb/run-20240919_182159-ktuaaoc5/logs/debug-core.log"}
+{"time":"2024-09-19T18:21:59.094179008+02:00","level":"INFO","msg":"created new stream","id":"ktuaaoc5"}
+{"time":"2024-09-19T18:21:59.094208868+02:00","level":"INFO","msg":"stream: started","id":"ktuaaoc5"}
+{"time":"2024-09-19T18:21:59.094259751+02:00","level":"INFO","msg":"sender: started","stream_id":{"value":"ktuaaoc5"}}
+{"time":"2024-09-19T18:21:59.094265365+02:00","level":"INFO","msg":"handler: started","stream_id":{"value":"ktuaaoc5"}}
+{"time":"2024-09-19T18:21:59.094223377+02:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"ktuaaoc5"}}
+{"time":"2024-09-19T18:21:59.517274542+02:00","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-09-19T18:21:59.520281747+02:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-09-19T18:33:06.845210789+02:00","level":"INFO","msg":"stream: closing","id":"ktuaaoc5"}
+{"time":"2024-09-19T18:33:06.845346925+02:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-09-19T18:33:06.846230158+02:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-09-19T18:33:07.00047149+02:00","level":"WARN","msg":"No job ingredients found, not creating job artifact"}
+{"time":"2024-09-19T18:33:07.000505488+02:00","level":"WARN","msg":"No source type found, not creating job artifact"}
+{"time":"2024-09-19T18:33:07.000516235+02:00","level":"INFO","msg":"sender: sendDefer: no job artifact to save"}
+{"time":"2024-09-19T18:33:07.764679927+02:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"ktuaaoc5"}}
+{"time":"2024-09-19T18:33:07.764793869+02:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"ktuaaoc5"}}
+{"time":"2024-09-19T18:33:07.764916874+02:00","level":"INFO","msg":"sender: closed","stream_id":{"value":"ktuaaoc5"}}
+{"time":"2024-09-19T18:33:07.764945835+02:00","level":"INFO","msg":"stream: closed","id":"ktuaaoc5"}

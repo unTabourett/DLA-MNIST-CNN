@@ -1,0 +1,40 @@
+2024-09-19 18:55:18,061 INFO    MainThread:20666 [wandb_setup.py:_flush():77] Current SDK version is 0.18.1
+2024-09-19 18:55:18,062 INFO    MainThread:20666 [wandb_setup.py:_flush():77] Configure stats pid to 20666
+2024-09-19 18:55:18,062 INFO    MainThread:20666 [wandb_setup.py:_flush():77] Loading settings from /home/hleroy/.config/wandb/settings
+2024-09-19 18:55:18,062 INFO    MainThread:20666 [wandb_setup.py:_flush():77] Loading settings from /home/hleroy/Documents/UnivSID/DLA/TP1/wandb/settings
+2024-09-19 18:55:18,062 INFO    MainThread:20666 [wandb_setup.py:_flush():77] Loading settings from environment variables: {}
+2024-09-19 18:55:18,062 INFO    MainThread:20666 [wandb_setup.py:_flush():77] Applying setup settings: {'mode': None, '_disable_service': None}
+2024-09-19 18:55:18,062 INFO    MainThread:20666 [wandb_setup.py:_flush():77] Inferring run settings from compute environment: {'program_relpath': 'src/train.py', 'program_abspath': '/home/hleroy/Documents/UnivSID/DLA/TP1/src/train.py', 'program': '/home/hleroy/Documents/UnivSID/DLA/TP1/src/train.py'}
+2024-09-19 18:55:18,062 INFO    MainThread:20666 [wandb_setup.py:_flush():77] Applying login settings: {}
+2024-09-19 18:55:18,062 INFO    MainThread:20666 [wandb_init.py:_log_setup():532] Logging user logs to /home/hleroy/Documents/UnivSID/DLA/TP1/wandb/run-20240919_185518-402ql5kh/logs/debug.log
+2024-09-19 18:55:18,062 INFO    MainThread:20666 [wandb_init.py:_log_setup():533] Logging internal logs to /home/hleroy/Documents/UnivSID/DLA/TP1/wandb/run-20240919_185518-402ql5kh/logs/debug-internal.log
+2024-09-19 18:55:18,062 INFO    MainThread:20666 [wandb_init.py:init():616] calling init triggers
+2024-09-19 18:55:18,062 INFO    MainThread:20666 [wandb_init.py:init():623] wandb.init called with sweep_config: {}
+config: {'learning_rate': 0.05, 'epochs': 10, 'batch_size': 64}
+2024-09-19 18:55:18,063 INFO    MainThread:20666 [wandb_init.py:init():666] starting backend
+2024-09-19 18:55:18,063 INFO    MainThread:20666 [wandb_init.py:init():670] setting up manager
+2024-09-19 18:55:18,065 INFO    MainThread:20666 [backend.py:_multiprocessing_setup():105] multiprocessing start_methods=fork,spawn,forkserver, using: spawn
+2024-09-19 18:55:18,067 INFO    MainThread:20666 [wandb_init.py:init():678] backend started and connected
+2024-09-19 18:55:18,070 INFO    MainThread:20666 [wandb_init.py:init():773] updated telemetry
+2024-09-19 18:55:18,071 INFO    MainThread:20666 [wandb_init.py:init():806] communicating run to backend with 90.0 second timeout
+2024-09-19 18:55:18,495 INFO    MainThread:20666 [wandb_init.py:init():857] starting run threads in backend
+2024-09-19 18:55:18,587 INFO    MainThread:20666 [wandb_run.py:_console_start():2459] atexit reg
+2024-09-19 18:55:18,588 INFO    MainThread:20666 [wandb_run.py:_redirect():2307] redirect: wrap_raw
+2024-09-19 18:55:18,588 INFO    MainThread:20666 [wandb_run.py:_redirect():2372] Wrapping output streams.
+2024-09-19 18:55:18,588 INFO    MainThread:20666 [wandb_run.py:_redirect():2397] Redirects installed.
+2024-09-19 18:55:18,590 INFO    MainThread:20666 [wandb_init.py:init():900] run started, returning control to user process
+2024-09-19 18:55:18,691 INFO    MainThread:20666 [wandb_setup.py:_flush():77] Current SDK version is 0.18.1
+2024-09-19 18:55:18,692 INFO    MainThread:20666 [wandb_setup.py:_flush():77] Configure stats pid to 20666
+2024-09-19 18:55:18,692 INFO    MainThread:20666 [wandb_setup.py:_flush():77] Loading settings from /home/hleroy/.config/wandb/settings
+2024-09-19 18:55:18,692 INFO    MainThread:20666 [wandb_setup.py:_flush():77] Loading settings from /home/hleroy/Documents/UnivSID/DLA/TP1/wandb/settings
+2024-09-19 18:55:18,692 INFO    MainThread:20666 [wandb_setup.py:_flush():77] Loading settings from environment variables: {}
+2024-09-19 18:55:18,693 INFO    MainThread:20666 [wandb_setup.py:_flush():77] Applying setup settings: {'mode': None, '_disable_service': None}
+2024-09-19 18:55:18,693 INFO    MainThread:20666 [wandb_setup.py:_flush():77] Inferring run settings from compute environment: {'program_relpath': 'src/train.py', 'program_abspath': '/home/hleroy/Documents/UnivSID/DLA/TP1/src/train.py', 'program': '/home/hleroy/Documents/UnivSID/DLA/TP1/src/train.py'}
+2024-09-19 18:55:18,693 INFO    MainThread:20666 [wandb_setup.py:_flush():77] Applying login settings: {}
+2024-09-19 18:55:18,693 INFO    MainThread:20666 [wandb_init.py:_log_setup():532] Logging user logs to /home/hleroy/Documents/UnivSID/DLA/TP1/wandb/run-20240919_185518-evvas2sf/logs/debug.log
+2024-09-19 18:55:18,694 INFO    MainThread:20666 [wandb_init.py:_log_setup():533] Logging internal logs to /home/hleroy/Documents/UnivSID/DLA/TP1/wandb/run-20240919_185518-evvas2sf/logs/debug-internal.log
+2024-09-19 18:55:18,694 INFO    MainThread:20666 [wandb_init.py:init():616] calling init triggers
+2024-09-19 18:55:18,694 INFO    MainThread:20666 [wandb_init.py:init():623] wandb.init called with sweep_config: {}
+config: {'learning_rate': 0.05, 'epochs': 10, 'batch_size': 64}
+2024-09-19 18:55:18,694 INFO    MainThread:20666 [wandb_init.py:init():661] wandb.init() called when a run is still active
+2024-09-19 19:04:47,256 WARNING MsgRouterThr:20666 [router.py:message_loop():77] message_loop has been closed
